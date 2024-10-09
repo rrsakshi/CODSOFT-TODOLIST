@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TODO</string>
+    <string name="add_task" />
+    <string name="hey_buddy">\n</string>
+    <string name="save">Save</string>
+    <string name="hey_buddy_enter_task">Hey Buddy... Enter task</string>
+    <string name="this_is_simple_text">This is Simple Text</string>
+    <string name="enter_your_task_here">Enter Your Task here..</string>
+</resources>
